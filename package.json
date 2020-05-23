@@ -1,0 +1,26 @@
+{
+  "name": "shallan",
+  "version": "1.0.0",
+  "description": "a toolbox for react + redux applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Towens2727/shallan.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Ted Owens",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Towens2727/shallan/issues"
+  },
+  "homepage": "https://github.com/Towens2727/shallan#readme",
+  "dependencies": {
+    "@emotion/core": "^10.0.28"
+  }
+}
