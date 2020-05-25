@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Towens2727/shallan#readme",
   "dependencies": {
-    "@emotion/core": "^10.0.28"
+    "@emotion/core": "^10.0.28",
+    "query-string": "^6.12.1"
   }
 }
